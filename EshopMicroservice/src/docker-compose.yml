@@ -1,0 +1,5 @@
+services:
+  catalogdb:
+    image: postgres:12.22
+volumes:
+  postgres-catalog:

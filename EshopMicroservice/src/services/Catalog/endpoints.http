@@ -1,4 +1,4 @@
-POST http://localhost:8080/products HTTP/1.1
+POST http://localhost:5157/products HTTP/1.1
 Content-Type: application/json
 
 {
@@ -8,3 +8,6 @@ Content-Type: application/json
     "imageFile" : "image",
     "price" : 900
 }
+
+
+GET http://localhost:5157/products 

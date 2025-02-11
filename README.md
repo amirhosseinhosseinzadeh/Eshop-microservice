@@ -11,7 +11,7 @@
 **Veticla slice Architecture**
 
 > vertical slice architecture aims to organize code around **features** or **use cases** instead of **technical concerns**. <br />
-> feature are implemented **across all layers** of software form the user interface to the database. <br />
+> features are implemented **across all layers** of software form the user interface to the database. <br />
 > And is suitable for complex and feature-rich applications <br />
 > divide application into **distinct feature** or **functionalities**
 
